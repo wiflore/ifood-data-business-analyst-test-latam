@@ -1,6 +1,6 @@
 # ifood-data-business-analyst-test-latam
 
-This case is used for hiring Data Analysts for the iFood Brain team. Instructions are in the pdf file. **For Senior Data Scientist application please add the following requirements:**
+This case is used for hiring Data Analysts for the iFood Brain team. Instructions are in the pdf file. **For Data Scientist application please add the following requirements:**
 
 ## ML model serving  
 There are two goals for this exercise. The first one is to create an automated ML model training process. The second one is to create a Rest API that serves a ML model predictions.  
