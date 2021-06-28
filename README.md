@@ -15,4 +15,4 @@ You should also provide a README file on how to execute the training job, and ho
 For this exercise, we would like for you to propose an AWS architecture.  A single page describing the resources needed is sufficient, although you are free to provide code if you like it. Please have in mind that this structure must be reliable, scalable and as cheap as possible without compromising the other two requisites.  
 
 
-If you are interested in joining our team, or getting to know more about iFood and our team, feel free to send an e-mail to **shadia.reales@ifood.com.co**
+If you are interested in joining our team, or getting to know more about iFood and our team, feel free to send an e-mail to **bleidys.montes@ifood.com.co**
